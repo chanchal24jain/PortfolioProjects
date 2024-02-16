@@ -26,7 +26,22 @@ Usage for Excel Project:
 1. Clone the repository: git clone https://github.com/chanchal24jain/PortfolioProjects.git
 2. Utilize the Excel dataset "Excel Project Dataset bike_buyers.xlsx" for data exploration and analysis on bike buyers.
 
-Contributors:
+Project #3: Tableau Dashboard - Airbnb Listings 2016 Dataset
+------------------------------------------------------------
+This project utilized Tableau Public desktop application to create a dashboard using the following dataset: [Airbnb Listings 2016 Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset).
+
+Visualizations Included:
+1. Average Price Per Bedroom
+2. Distinct Count of Bedroom Listings
+3. Price Per Zipcode
+4. Price By Zipcode
+5. Revenue for Year
+
+Files Included:
+- AirBnB Full Project.twbx: Tableau workbook file containing the dashboard and visualizations.
+- AirBnB Full Project Dashboard.png: PNG image of the dashboard for reference.
+
+Contributor:
 Chanchal Jain
 
 Feel free to contribute to this project by forking the repository and submitting pull requests with your enhancements or suggestions. If you encounter any issues or have questions, please open an issue ticket.
