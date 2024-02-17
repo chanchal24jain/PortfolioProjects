@@ -41,7 +41,19 @@ Files Included:
 - AirBnB Full Project.twbx: Tableau workbook file containing the dashboard and visualizations.
 - AirBnB Full Project Dashboard.png: PNG image of the dashboard for reference.
 
-Contributor:
+Project #4: Power BI - Employees Survey Analysis
+------------------------------------------------------------
+This project utilized an Excel file containing Employees Survey data to create insightful visualizations and dashboards using Power BI.
+
+Tasks performed:
+- Data Cleaning: The dataset underwent thorough cleaning processes to address inconsistencies, missing values, and formatting issues, ensuring data quality and integrity.
+- Visualization Dashboard: A comprehensive dashboard was created using Power BI to visualize key insights and trends derived from the Employees Survey data.
+
+Files Included:
+- Employees Survey.xlsx: Excel file containing the Employees Survey data.
+- Employees Survey Analysis.pbix: Power BI file containing the dashboard and visualizations.
+
+Contributor: 
 Chanchal Jain
 
 Feel free to contribute to this project by forking the repository and submitting pull requests with your enhancements or suggestions. If you encounter any issues or have questions, please open an issue ticket.
